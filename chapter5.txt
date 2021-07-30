@@ -1,1 +1,2 @@
-New add kiye hai ye master branch me
+New add kiye hai ye
+Removed few things and added few
